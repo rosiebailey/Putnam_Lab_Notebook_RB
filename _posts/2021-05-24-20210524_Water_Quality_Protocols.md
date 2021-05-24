@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20210524_Water_Quality_Protocols
+title: Water Quality Protocols
 date: '2021-05-24'
 categories: Protocols
 tags: Water Quality
