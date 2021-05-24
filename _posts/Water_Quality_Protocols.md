@@ -1,0 +1,77 @@
+---
+layout: post
+title: Water Quality Test Protocol
+date: '2021-05-24'
+categories: Protocols
+tags: [CBLS Aquarium Room, pH, Protocol, Water Quality, Salinity, Temperature]
+---
+Date Started: 05-24-2021
+Date last revised: 05-24-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium Room Water Quality Schedule and Protocols](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) and [Dr. Hollie Putnam's WetLab Manual](https://docs.google.com/document/d/1lfsw27L7d_om6YE1jITMBXyVfVT68i5SyQL9h3pDT9k/edit?ts=60762410)
+
+### <center> Protocol for the Water Quality Tests in the WetLab </center>
+
+When comparing the two sets of protocols, both are similar and correct. The individual water tests with step-by-step instructions can be found further down in this document and in the Aquarium Room Protocols Post.
+Consult the Wet Lab for PPE and Safety Protocols.
+One big difference between the two sets of protocols is the water retrieval site, the Wet Lab instructs to pull water from the header tank and the Aquarium Room Protocol does not specify where the water should be tested from.
+
+## <Center> Water Test Schedule </center>
+
+| Test | Frequency and Day |
+| ---- | ----------------- |
+| [Ca-Calcium](#Ca-Calcium) | Once a Week (Tuesday) |
+| [KH-Hardness](#KH-Hardness) | Once a Week (Tuesday) |
+| [NH4-Ammonium](#NH4-Ammonium) | Once a Week (Tuesday) |
+|[NO2-Nitrogen](#NO2-Nitrogen) | Once a Week (Tuesday) |
+| [NO3-Nitrate](#NO3-Nitrate) | Once a Week (Tuesday) |
+| [pH](#pH) | Every Day |
+| [Light](#Light)) | Every Day |
+| [Salinity](#Salinity) | Every Day |
+| [Temperature](#Temperature) | Every Day |
+
+## <left> General Water Test Notes </left>
+- Before beginning the water quality tests, be sure to obtain the waste bottles under the titration station from Lab room 190 in CBLS.
+- Make sure to wear appropriate PPE (gloves and protective eye glasses/ goggles) while performing all tests.
+- **Do not put any test tubes into the water tanks** gather the water for testing with a clean container.  
+- If tests have been contaminated or too much reagent is added, dump test into designated waste container, rinse with DI water, dump the rinse in the same waste container, and restart the test.
+- When analyzing results, use the correct tables i.e. use the salt water table for reference when conducting the phosphate (PO4) test.
+- Once conducted tests are finished, their waste and their rinse water can be dumped into respective 500 mL waste bottles.
+- **Rinse each test tube 3 times with DI Water** then dry with clean paper towel and place capped tube in respective box.
+- Each test tube has it's own box **Do not mix test tubes**.
+- Clearly record the data in the shared lab notebook with the date and your initials at the top of the page.
+- Be sure to clean the lab space with a Clorox wipe before and after use to ensure cleanliness for all lab members.
+- If you've used towels to dry any areas, rinse them in the sink and place them in under the water table on the black rack to dry.
+
+## <left> Equipment Protocol </left>
+- There are tests when equipment is inserted into the tank. This equipment includes, but is not limited to, the pH probe, the Salinity probe, the Light probe, the thermometer probe. **Before any equipment is placed into the tanks they need to be cleaned with DI water and a kimwipe**.
+- All equipment needs to be rinsed or wiped with kimwipe with **70% ethanol** solution and then with **DI water** to prevent salt erosion and ensure general lab cleanliness.
+- **Do not put ethanol on the Salinity or pH probes** They are sensitive and expensive, DI Water rinse will be enough.
+- Ensure the Salinity and pH probe tips are placed in their respective solution bottles.
+
+## <left> Test Steps </left>
+
+*Note: These steps and data analysis charts can be found in the boxes with the test materials.*
+*Note: All of the tests start with 5mL of the tank water.*
+
+#Ca-Calcium
+1.
+
+# KH-Hardness
+1.
+
+#NH4-Ammonium
+1.
+
+#NO2-Nitrogen
+1.
+
+#NO3-Nitrate
+1.
+
+#pH
+1.
+
+#Salinity
+1.
+
+#Temperature
+1. 
