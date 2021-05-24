@@ -155,7 +155,7 @@ Start with 5mL Salt Water from Tank 1.
 **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the **Salt Water** reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](#General Water Test Notes).
+7. Dispose of all test solutions and rinse water into respective waste containers [general Water Test Notes](#General Water Test Notes).
 
 # pH
 1.
