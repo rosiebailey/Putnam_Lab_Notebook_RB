@@ -31,12 +31,11 @@ One big difference between the two sets of protocols is the water retrieval site
 | [Temperature](#Temperature) | Every Day |
 
 ## <left> General Water Test Notes </left>
-- Before beginning the water quality tests, be sure to obtain the waste bottles under the titration station from Lab room 190 in CBLS.
+- Before beginning the water quality tests, be sure to obtain the waste bottles under the titration station from Lab room 190 in CBLS. Once conducted tests are finished, their waste and their rinse water can be dumped into respective 500 mL waste bottles.
 - Make sure to wear appropriate PPE (gloves and protective eye glasses/ goggles) while performing all tests.
 - **Do not put any test tubes into the water tanks** gather the water for testing with a clean container.  
 - If tests have been contaminated or too much reagent is added, dump test into designated waste container, rinse with DI water, dump the rinse in the same waste container, and restart the test.
 - When analyzing results, use the correct tables i.e. use the salt water table for reference when conducting the phosphate (PO4) test.
-- Once conducted tests are finished, their waste and their rinse water can be dumped into respective 500 mL waste bottles.
 - **Rinse each test tube 3 times with DI Water** then dry with clean paper towel and place capped tube in respective box.
 - Each test tube has it's own box **Do not mix test tubes**.
 - Clearly record the data in the shared lab notebook with the date and your initials at the top of the page.
@@ -53,10 +52,10 @@ One big difference between the two sets of protocols is the water retrieval site
 
 *Note: These steps and data analysis charts can be found in the boxes with the test materials.*
 *Note: All of the tests start with 5mL of the tank water.*
-*Note: For all of the drops, hold bottles completely vertical to ensure one drop goes into the mixture at a time.*
+*Note: For all of the drops, hold bottles completely vertical to ensure one drop goes into the mixture at a time. This also standardizes the drop sizes.*
 # Ca-Calcium
-*Measurements with: API Product 69L*
-Start with 5mL Water.
+*Measurements with: API Product 69L.*
+Start with 5mL Salt Water from Tank 1.
 1. Add 10 drops of the Test solution 1, cap, and shake vigorously for 10 seconds.
 2. Shake test solution 2 bottle vigorously for 10 seconds.  
 3. Add test solution 2 into test tube drop by drop (shaking in between each drop) until the mix turns from pink to blue.
@@ -93,13 +92,14 @@ Start with 5mL Water.
 
 
 # KH-Hardness
-*Measurements with: API Product 59L*
-Start with 5mL Water.
+*Measurements with: API Product 59L.*
+Start with 5mL Salt Water from Tank 1.
 1. Add drops of the test solution one at a time.
 2. Cap and invert at least 3 times after each drop.
 3. Stop adding drops of the solution once the solution has turned from blue to yellow after being inverted 3 times.
 4. See table below or table included in test kit box for determination of KH value.
-Record the number of drops used as well as the KH value **Units in PPM**
+Record the number of drops used as well as the KH value **Units in PPM**.
+5. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](# <left> General Water Test Notes </left>).
 
 | # of Drops | ppm KH |
 | ----- | ----- |
@@ -117,39 +117,43 @@ Record the number of drops used as well as the KH value **Units in PPM**
 | 12 | 214.8 |
 
 # NH4-Ammonium
-*Measurements with: API Product 401M*
-Start with 5mL Water.
+*Measurements with: API Product 401M.*
+Start with 5mL Salt Water from Tank 1.
 1. Add 8 drops of test solution 1 to test tube.
 2. Add 8 drops of test solution 2 to test tube.
 3. Cap and shake vigorously for 5 seconds.
 4. **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.  
+7. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](# <left> General Water Test Notes </left>).
 
 
 # NO2-Nitrogen
-*Measurements with: API Product 401M*
-Start with 5mL Water.
+*Measurements with: API Product 401M.*
+Start with 5mL Salt Water from Tank 1.
 1. Add 5 drops of test solution 1.
 2. Cap and shake vigorously for 5 seconds.
 3. **Wait 5 minutes** for color to develop.
 4. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
+7. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](# <left> General Water Test Notes </left>).
 
 # NO3-Nitrate
-*Measurements with: API Product 401M*
-Start with 5mL Water.
-1.
+*Measurements with: API Product 401M.*
+Start with 5mL Salt Water from Tank 1.
+1. Add
+7. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](#General Water Test Notes).
 
 
 # PO4-Phosphate
-*Measurements with: API Product 63L*
-Start with 5mL Water.
+*Measurements with: API Product 63L.*
+Start with 5mL Salt Water from Tank 1.
 1. Add 6 drops of test solution 1.
 2. 
 **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the **Salt Water** reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
+7. Dispose of all test solutions and rinse water into respective waste containers [See general test notes above](# <left> General Water Test Notes </left>).
 
 # pH
 1.
