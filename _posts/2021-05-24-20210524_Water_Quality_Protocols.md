@@ -29,8 +29,10 @@ One big difference between the two sets of protocols is the water retrieval site
 | [**Light**](#Light) | Every Day |
 | [**Salinity**](#Salinity) | Every Day |
 | [**Temperature**](#Temperature) | Every Day |
+
 <a name="Light"></a> **Light**
-## General_Water_Test_Notes
+
+## General-Water-Test-Notes
 - Before beginning the water quality tests, be sure to obtain the waste bottles under the titration station from Lab room 190 in CBLS. Once conducted tests are finished, their waste and their rinse water can be dumped into respective 500 mL waste bottles.
 - Make sure to wear appropriate PPE (gloves and protective eye glasses/ goggles) while performing all tests.
 - **Do not put any test tubes into the water tanks** gather the water for testing with a clean container.  
@@ -43,6 +45,7 @@ One big difference between the two sets of protocols is the water retrieval site
 - If you've used towels to dry any areas, rinse them in the sink and place them in under the water table on the black rack to dry.
 
 ## <left> Equipment Protocol </left>
+
 - There are tests when equipment is inserted into the tank. This equipment includes, but is not limited to, the pH probe, the Salinity probe, the Light probe, the thermometer probe. **Before any equipment is placed into the tanks they need to be cleaned with DI water and a kimwipe**.
 - All equipment needs to be rinsed or wiped with kimwipe with **70% ethanol** solution and then with **DI water** to prevent salt erosion and ensure general lab cleanliness.
 - **Do not put ethanol on the Salinity or pH probes** They are sensitive and expensive, DI Water rinse will be enough.
@@ -61,7 +64,7 @@ Start with 5mL Salt Water from Tank 1.
 2. Shake test solution 2 bottle vigorously for 10 seconds.  
 3. Add test solution 2 into test tube drop by drop (shaking in between each drop) until the mix turns from pink to blue.
 4. See table below (paper copy in test kit box) for determination of Ca **units in PPM**.
-5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General_Water_Test_Notes) above.
+5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
 
 | # of Drops | ppm Ca |
 | ----- | ----- |
@@ -101,7 +104,7 @@ Start with 5mL Salt Water from Tank 1.
 3. Stop adding drops of the solution once the solution has turned from blue to yellow after being inverted 3 times.
 4. See table below or table included in test kit box for determination of KH value.
 Record the number of drops used as well as the KH value **Units in PPM**.
-5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water Test Notes](##General Water Test Notes) above.
+5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
 
 | # of Drops | ppm KH |
 | ----- | ----- |
@@ -127,7 +130,7 @@ Start with 5mL Salt Water from Tank 1.
 4. **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.  
-7. Dispose of all test solutions and rinse water into respective waste containers. [See general test notes above](#General Water Test Notes).
+7. Dispose of all test solutions and rinse water into respective waste containers. [General Water test Notes](##General-Water-Test-Notes).
 
 
 # NO2-Nitrogen
@@ -138,7 +141,7 @@ Start with 5mL Salt Water from Tank 1.
 3. **Wait 5 minutes** for color to develop.
 4. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water Test Notes](##General Water Test Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
 
 # NO3-Nitrate
 *Measurements with: API Product 401M.*
@@ -150,7 +153,7 @@ Start with 5mL Salt Water from Tank 1.
 5. **Wait 5 minutes** for color to develop.
 6. Compare the color in the test tube to the reference table included in the test kit box.
 7. Record NO3 value **Units in ppm (mg/L)** in lab notebook.
-8. Dispose of all test solutions and rinse water into respective waste containers. See [General Water Test Notes](##General Water Test Notes) above.
+8. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
 
 
 # PO4-Phosphate
@@ -163,7 +166,7 @@ Start with 5mL Salt Water from Tank 1.
 **Wait for 3 minutes** for color to develop.
 5. Compare the color in the test tube to the **Salt Water** reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water Test Notes](##General Water Test Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers.[General Water test Notes](##General-Water-Test-Notes) above.
 
 # pH
 1.
