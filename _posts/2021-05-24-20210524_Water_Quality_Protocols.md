@@ -165,7 +165,7 @@ Start with 5mL Salt Water from Tank 1.
 **Wait for 3 minutes** for color to develop.
 5. Compare the color in the test tube to the **Salt Water** reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers.[General Water test Notes](#General-Water-Test-Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
 ## <left> General probe Care <left/>
 - **Do not leave hand held probes out of their designated liquid bottles**
@@ -236,7 +236,7 @@ The goal of the Tris calibration is to measure pH (mV) across a range of tempera
 8. Press the power button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
 
 # Temperature
-*Note: Temperature probe can and should be stored completely dry*
+*Note: Temperature probe can and should be stored completely dry.*
 1. The temperature probe - Traceable 4000 Thermometer S/N 170318187 is near the microscope.
 2. Wipe off the metal portion of the probe with DI water using a kimwipe
 3. Press the "ON/OFF" button (top left) to turn the probe on.
@@ -248,3 +248,36 @@ The goal of the Tris calibration is to measure pH (mV) across a range of tempera
 
 
 ### <left> Regulating DI Water and Salt Water Flow With Sump </left>
+
+*Note: The flow of water is off when the blue valve handle is perpendicular to the pipe.*
+*Note: The flow of water is on when the blue valve handle is parallel  to the pipe.*
+**If valves are turned to open flow between the tanks and the power source to the pump is off, the tank with the higher water volume will flow into the tank with the lower water volume until the equalize**.
+*If this scenario happens: Be sure to check salinities of all tanks.*
+**The salinity in the salt water mixing tank should never be less than that of the water tables or header tank.**
+- The DI water tank should have a conductivity of 0.
+- Average salinity in Salt water tank should be 34-35 ppt.
+- The deviance between salinity values in tanks is okay up to 1ppt, but is ideally 0 ppt.
+
+*If there are problems with the two tanks, contact [Hollie Putnam](mailto:hputnam@uri.edu).*
+
+Images of each scenario -
+*The list of pipes/valves are as follows: Top and bottom for left and right sides (4 valves in total - 2 per side), a connecting pipe that is vertical between the two tanks, and the top horizontal pipe that feeds into the sump.*
+
+- Completely closed (no flow).
+* All pipes are perpendicular.
+
+- Mixing salt water (flow to salt water tank).
+* All pipes on the left (DI side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
+* The vertical connecting pipe and top/bottom pipes on the right side (Salt Water side) are parallel (on).
+
+- Adding Salt Water to Sump.
+* The bottom right (Salt Water side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
+* All other pipes are off. (Top on both sides and bottom left).
+
+- Mixing DI water (flow open to DI water tank).
+* All pipes on the right (Salt Water side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
+* The vertical connecting pipe and top/bottom pipes on the left side (DI side) are parallel (on).
+
+- Adding DI water to sump.
+*The bottom left (DI side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
+* All other pipes are off. (Top on both sides and bottom right).
