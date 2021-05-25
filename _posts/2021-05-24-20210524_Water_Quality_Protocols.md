@@ -63,7 +63,7 @@ Start with 5mL Salt Water from Tank 1.
 2. Shake test solution 2 bottle vigorously for 10 seconds.  
 3. Add test solution 2 into test tube drop by drop (shaking in between each drop) until the mix turns from pink to blue.
 4. See table below (paper copy in test kit box) for determination of Ca **units in PPM**.
-5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
+5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
 | # of Drops | ppm Ca |
 | ----- | ----- |
@@ -103,7 +103,7 @@ Start with 5mL Salt Water from Tank 1.
 3. Stop adding drops of the solution once the solution has turned from blue to yellow after being inverted 3 times.
 4. See table below or table included in test kit box for determination of KH value.
 Record the number of drops used as well as the KH value **Units in PPM**.
-5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
+5. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
 | # of Drops | ppm KH |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Start with 5mL Salt Water from Tank 1.
 4. **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.  
-7. Dispose of all test solutions and rinse water into respective waste containers. See  [General Water test Notes](##General-Water-Test-Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers. See  [General Water test Notes](#General-Water-Test-Notes) above.
 
 
 # NO2-Nitrogen
@@ -140,7 +140,7 @@ Start with 5mL Salt Water from Tank 1.
 3. **Wait 5 minutes** for color to develop.
 4. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
 # NO3-Nitrate
 *Measurements with: API Product 401M.*
@@ -152,7 +152,7 @@ Start with 5mL Salt Water from Tank 1.
 5. **Wait 5 minutes** for color to develop.
 6. Compare the color in the test tube to the reference table included in the test kit box.
 7. Record NO3 value **Units in ppm (mg/L)** in lab notebook.
-8. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](##General-Water-Test-Notes) above.
+8. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
 
 # PO4-Phosphate
@@ -165,7 +165,7 @@ Start with 5mL Salt Water from Tank 1.
 **Wait for 3 minutes** for color to develop.
 5. Compare the color in the test tube to the **Salt Water** reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
-7. Dispose of all test solutions and rinse water into respective waste containers.[General Water test Notes](##General-Water-Test-Notes) above.
+7. Dispose of all test solutions and rinse water into respective waste containers.[General Water test Notes](#General-Water-Test-Notes) above.
 
 ## <left> General probe Care <left/>
 - **Do not leave hand held probes out of their designated liquid bottles**
