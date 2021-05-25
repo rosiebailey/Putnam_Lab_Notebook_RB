@@ -269,26 +269,24 @@ Images of each scenario -
 
 *The list of pipes/valves are as follows: Top and bottom for left and right sides (4 valves in total - 2 per side), a connecting pipe that is vertical between the two tanks, and the top horizontal pipe that feeds into the sump.*
 
-- Completely closed (no flow).
 
-* All pipes are perpendicular.
+#  Completely closed ![no flow](https://github.com/rosiebailey/Putnam_Lab_Notebook_RB/blob/master/images/Water-Off.png)
+  - All pipes are perpendicular.
 
-- Mixing salt water (flow to salt water tank).
+# Mixing salt water ![flow to salt water tank](https://github.com/rosiebailey/Putnam_Lab_Notebook_RB/blob/master/images/Mixing-SW.png).
+    - All pipes on the left (DI side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
+    - The vertical connecting pipe and top/bottom pipes on the right side (Salt Water side) are parallel (on).
 
-* All pipes on the left (DI side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
-* The vertical connecting pipe and top/bottom pipes on the right side (Salt Water side) are parallel (on).
+# Adding Salt Water to Sump ![flow to sump](https://github.com/rosiebailey/Putnam_Lab_Notebook_RB/blob/master/images/Adding-SW.png).
+ - The bottom right (Salt Water side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
+ -  All other pipes are off. (Top on both sides and bottom left).
 
-- Adding Salt Water to Sump.
+# Mixing DI water ![flow open to DI water tank](https://github.com/rosiebailey/Putnam_Lab_Notebook_RB/blob/master/images/Mixing-DI.png).
 
-* The bottom right (Salt Water side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
-* All other pipes are off. (Top on both sides and bottom left).
+    - All pipes on the right (Salt Water side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
+    - The vertical connecting pipe and top/bottom pipes on the left side (DI side) are parallel (on).
 
-- Mixing DI water (flow open to DI water tank).
+# Adding DI water to sump ![flow to sump](https://github.com/rosiebailey/Putnam_Lab_Notebook_RB/blob/master/images/Adding-DI.png).
 
-* All pipes on the right (Salt Water side) are perpendicular (off). *The top horizontal pipe should be off unless you are adding water to the sump.*
-* The vertical connecting pipe and top/bottom pipes on the left side (DI side) are parallel (on).
-
-- Adding DI water to sump.
-
-* The bottom left (DI side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
-* All other pipes are off. (Top on both sides and bottom right).
+  - The bottom left (DI side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
+  - All other pipes are off. (Top on both sides and bottom right).
