@@ -18,7 +18,7 @@ One big difference between the two sets of protocols is the water retrieval site
 ## <Center> Water Test Schedule </center>
 
 | Test | Frequency and Day |
-| ---- | ----------------- |
+| ---- | ---- |
 | [**Ca-Calcium**](#Ca-Calcium) | Once a Week (Tuesday) |
 | [**KH-Hardness**](#KH-Hardness) | Once a Week (Tuesday) |
 | [**NH4-Ammonium**](#NH4-Ammonium) | Once a Week (Tuesday) |
@@ -30,7 +30,6 @@ One big difference between the two sets of protocols is the water retrieval site
 | [**Salinity**](#Salinity) | Every Day |
 | [**Temperature**](#Temperature) | Every Day |
 
-<a name="Light"></a> **Light**
 
 ## General-Water-Test-Notes
 - Before beginning the water quality tests, be sure to obtain the waste bottles under the titration station from Lab room 190 in CBLS. Once conducted tests are finished, their waste and their rinse water can be dumped into respective 500 mL waste bottles.
@@ -130,7 +129,7 @@ Start with 5mL Salt Water from Tank 1.
 4. **Wait for 5 minutes** for color to develop.
 5. Compare the color in the test tube to the reference table included in the test kit box.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.  
-7. Dispose of all test solutions and rinse water into respective waste containers. [General Water test Notes](##General-Water-Test-Notes).
+7. Dispose of all test solutions and rinse water into respective waste containers. See  [General Water test Notes](##General-Water-Test-Notes) above.
 
 
 # NO2-Nitrogen
@@ -168,14 +167,84 @@ Start with 5mL Salt Water from Tank 1.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
 7. Dispose of all test solutions and rinse water into respective waste containers.[General Water test Notes](##General-Water-Test-Notes) above.
 
+## <left> General probe Care <left/>
+- **Do not leave hand held probes out of their designated liquid bottles**
+
+# Calibration Notes
+- **The handheld pH and salinity probes, apex pH, and salinity probes need to be calibrated every few days**.
+It is best to do this *at least* **every 3 days**. Both meter probes (used for daily discrete measurements) and APEX probes must be calibrated every three days with corresponding solutions (Apex uses solutions from Neptune Systems - handheld Mettler Toledo (pH) and Thermoscience (conductivity) probes use buffers from TA and probe-specific solutions, respectively).
+	- Update your notebook with the date and time of calibration.
+
+# After-Use-Notes
+After each use, follow these steps:
+- Do not wipe probes with ethanol.
+- Rinse all probes with DI Water and store them in dry area.
+- Wipe off meter boxes with a kimwipe and 70% ethanol to remove excess salt and water.
+
+# Light
+*Note: Make sure that there is no shadow from fingers or probe handle covering the translucent part of the probe*.
+1. Get the light probe from near the microscope and **take the blue cap off**. Place cap next to lab notebook to ensure it doesn't get lost.
+2. Wipe wire and metal with DI water and a kimwipe.
+3. Turn on meter box by pressing top left power button.
+4. Place the metal part in the water at the same depth of the egg crate. **Making sure the translucent side is facing up**.
+5. Look at the grey box for the measurement, take **5** measurments going in a line across the bottom of the water tank.
+6. Measure the light both with plexiglass and no plexiglass on top of the tank.
+7.  Record the numbers in the lab notebook **units in umol/m2/s** and take the average of the values without plexiglass.
+8. Turn off probe and begin After use notes. [See above](#After-Use-Notes).
+
 # pH
-1.
+*You will have to do the tris-calibration process every three days to a week. Steps included below*
+*Note: Make sure the meter box is measuring in mV, hitting the mode button will allow you to switch the units*
+1. Press the power button (top left) to turn the probe on.
+2. Rinse the tip of the probe with DI water and set aside the liquid bottle the tip was in.
+3. Toggle the "channel" button (F3) to make sure you are viewing pH in mV.
+4. Submerge the tip of the probe in the water table (near the Putnam Lab banner).
+5. When the probe settles (will say "ready") record the pH **units in mV** in the lab notebook.
+6. *Repeat steps 4 & 5 for the second water table, glass tank in water table 2, and the header tank (big black bucket).*
+ 7. Press the power button to turn the probe off and complete the after-use process [See above](#After-Use-Notes).
+
+# Tris-Calibration steps -
+The goal of the Tris calibration is to measure pH (mV) across a range of temperatures lower and higher than currently experienced in the tanks. The temperature values and corresponding pH values must have a linear relationship and an R^2 value equal to or above 0.98 in order to calculate the pH values for the daily measurements from the calibration curve.
+
+*Note: Measured with Orion Star A325 Thermoscientific pH/ conductivity meter and Mettler Toledo probe 51343101 and Control Company Certified traceable Temperature probe.*
+
+1. Fill a small clean container (preferably a falcon tube) with certified Tris standard solution from the Dickson Lab.
+2. After opening a new bottle, write "Opened", the date is yyyymmdd from , your initials and Putnam Lab - e.g., "RB - Putnam Lab".
+3. Fill a plastic 1L container half way with ice. Set the Tris solution container on ice to cool the solution down to desired temperature **(~20C)**. This value will change based on the range of temperature you expect to be measuring. This will change through time in an experiment where temperature is not held constant.
+4. With the certified temperature probe, measure the Tris solution temperature. Swirl the temperature probe in the solution as it measures to ensure the solution is well mixed.
+5. With the Thermo A325 meter with the Mettler Toledo pH probe attached, click "Measure" on the meter when the Tris solution is nearing the first temperature (e.g., 25°C). Swirl the pH probe in the solution as it measures to ensure the solution is well mixed.
+6. Wait for the temperature and mV value to stabilize and record values.
+7. Warm the Tris Buffer by gently holding the outside of the tube/container. But be careful to not hold the container for too long or too aggressively, otherwise the temperature will spike without the chance to record values across the temperature range.
+8. Make temperature and pH measurements across the desired range, with increments of about 0.4°C. Read the temperature value as soon as the pH meter states "ready" instead of "stabilizing".
+9. Save measured values a new CSV file named today's date (yyyymmdd.csv) and save to "pH_Calibration_Files" folder. Column 1: mVTris (pH values); Column 2: Tris (temperature values).
+10. Run the R Script titled "pH_Tris_Curve.R" on RStudio. Check the R^2 value and do not move on until the R^2 is equal to or above 0.98.
+- **Remember: to run the R script, you need to:**
+- **Make sure the Tris file was saved as a .csv**
+- **Make sure that the data in the excel sheet is correct and the signs (+/-) are also correct.**
+- **Check that the directory is set to where the Tris file (yyyymmdd.csv) is.**
+- **Change the date in the R code to the date/name (since the name of the file is just the date) of the Tris file you are trying to run.**
 
 # Salinity
-1.
+*Note: Salinity and pH can be measured at the same time with the same machine (via different plug terminals) or separately.*
+1. The Orion Star A325 Thermoscientific pH/ conductivity meter is ear the white bin. The Thermo Orion 013005MD conductivity (salinity) probe is stored in DI water.
+2. Press the power button to turn the probe on
+3. Toggle the "channel" button (F3) to make sure you are viewing salinity (conductivity) in psu
+4. Place the probe in the water table (near the Putnam Lab banner). Make sure the whole conductivity cell is submerged in the water.
+5. When the probe settles (will say "ready") record the salinity in the lab notebook
+6. *Repeat steps 4 & 5 for the second water table, glass tank in water table 2, and the header tank (big black bucket)*.
+7. Record all temperature measurements **Units in psu** in the lab notebook. Press the "mode" button to reset as necessary.
+8. Press the power button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
 
 # Temperature
-1.
+*Note: Temperature probe can and should be stored completely dry*
+1. The temperature probe - Traceable 4000 Thermometer S/N 170318187 is near the microscope.
+2. Wipe off the metal portion of the probe with DI water using a kimwipe
+3. Press the "ON/OFF" button (top left) to turn the probe on.
+4. Place the metal portion of the probe in the water table (near the Putnam Lab banner).
+5. When the probe settles within 0.1C, record the temperature in the lab notebook
+6. *Repeat steps 4 & 5 for the second water table, glass tank in water table 2, and the header tank (big black bucket)*.
+7. Record all temperature measurements **Units in Celsius** in the lab notebook. Press the F/C button to reset as necessary.
+8. Press the "ON/OFF" button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
 
 
-## <left> Regulating DI Water and Salt Water Flow With Sump </left>
+### <left> Regulating DI Water and Salt Water Flow With Sump </left>
