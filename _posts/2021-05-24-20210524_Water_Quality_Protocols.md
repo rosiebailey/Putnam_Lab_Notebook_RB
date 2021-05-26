@@ -24,14 +24,14 @@ Date last revised: 05-25-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium 
 | [Cleaning Water Tables](#Cleaning-Water-Tables) |
 
 
-### <center> Water-Quality-Test-Protocol </center>
+### Water-Quality-Test-Protocol
 
 This is the comparison between both the test protocols in The Wet Lab Manual and The CBLS Aquarium Room Water Quality Schedule and Protocols post by hgreich.
 When comparing the two sets of protocols, both are similar and correct. The individual water tests with step-by-step instructions can be found further down in this document and in the Aquarium Room Protocols Post.
 Consult the Wet Lab for PPE and Safety Protocols.
 One big difference between the two sets of protocols is the water retrieval site, the Wet Lab instructs to pull water from the header tank and the Aquarium Room Protocol does not specify where the water should be tested from.
 
-## <Center> Water-Test-Schedule </center>
+## Water-Test-Schedule
 
 | Test | Frequency and Day |
 | ---- | ---- |
@@ -59,14 +59,14 @@ One big difference between the two sets of protocols is the water retrieval site
 - Be sure to clean the lab space with a Clorox wipe before and after use to ensure cleanliness for all lab members.
 - If you've used towels to dry any areas, rinse them in the sink and place them in under the water table on the black rack to dry.
 
-## <left> Equipment-Protocol </left>
+## Equipment-Protocol
 
 - There are tests when equipment is inserted into the tank. This equipment includes, but is not limited to, the pH probe, the Salinity probe, the Light probe, the thermometer probe. **Before any equipment is placed into the tanks they need to be cleaned with DI water and a kimwipe**.
 - All equipment needs to be rinsed or wiped with kimwipe with **70% ethanol** solution and then with **DI water** to prevent salt erosion and ensure general lab cleanliness.
 - **Do not put ethanol on the Salinity or pH probes** They are sensitive and expensive, DI Water rinse will be enough.
 - Ensure the Salinity and pH probe tips are placed in their respective solution bottles.
 
-## <left> Test-Steps </left>
+## Test-Steps
 
 *Note: These steps and data analysis charts can be found in the boxes with the test materials.*
 *Note: All of the tests start with 5mL of the tank water.*
@@ -183,7 +183,7 @@ Start with 5mL Salt Water from Tank 1.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
 7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
-## <left> General-Probe-Care <left/>
+## General-Probe-Care
 - **Do not leave hand held probes out of their designated liquid bottles**
 
 # Calibration-Notes
@@ -263,7 +263,7 @@ The goal of the Tris calibration is to measure pH (mV) across a range of tempera
 8. Press the "ON/OFF" button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
 
 
-### <left> Regulating-Water-Flow </left>
+### Regulating-Water-Flow
 
 *Note: The flow of water is off when the blue valve handle is perpendicular to the pipe.*
 
@@ -309,7 +309,7 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 - All other pipes are off. (Top on both sides and bottom right).
 
 
-## <left> Feeding-Coral <left/>
+## Feeding-Coral
 **Rinsing all equipment (with DI water) that will go in the water tables is essential for minimizing contaminants entering the water.**
 *Feeding the corals in a gray tray outside of the water table helps to limit excess nutrients in the water table systems.*
 
@@ -326,3 +326,24 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 10. Rinse the grey tray in the sink and put all feeding equipment back in designated space.
 
 ## Cleaning-Water-Tables
+
+*There are two siphons in the lab that are in identical orange 5 Gallon buckets.*
+
+- One siphon and extender tube set is labelled with **purple** tape, it is **solely for the Salt Water Mixing tank**.
+
+- The other is labelled with **blue** tape, it is for cleaning the algae out of the water tables.
+
+Start by connecting the extender hose to the hose on the siphon that is longer and has ridges, *this is the hose that stays out of the water tables and feeds the algae contaminated water into the orange waste bucket.*
+You can use the black bucket to prop-up/raise the orange bucket off the ground so that the gap between the siphon hose and the orange waste bucket is less.
+- Remove the tank cover and place on top of another cover.
+- Stick the short straight hose into the tank and aim for the algae clumping on the bottom. *This siphon is essentially an algae vacuum*.
+- Begin to squeeze the orange pump at the top until there is a steady water flow.
+- Suck up the clumps of algae in horizontal or vertical rows as if you are mowing a lawn.
+- Be sure to watch the water line in the waste bucket.
+- Once it is 3/4 full, take the siphon out of the water tank *Suction hose pointed up* so that the water does not drip back into the tank.
+- You can drain the remaining water that is in the siphon into the waste bucket and place tge empty siphon on the water table cover.
+- Dump out waste water in floor drain beside the water tables.
+- Continue this process until the large algae clumps are sucked up.
+**Try to minimize the amounts of loose algae clumps floating in the water column by ensuring you've completely sucked up the algae clump before moving on.** This is a skill that gets better with time/practice.
+**Watch the water level in the black header tank, the apex probes should never be completely out of water.**
+- Once you've cleaned both water tables, add water salt water into the sump. Steps for this process are found above in the [Regulating Water Flow](#Regulating-Water-Flow) Section.
