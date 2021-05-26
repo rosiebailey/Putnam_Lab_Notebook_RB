@@ -291,3 +291,20 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 
 - The bottom left (DI side) is on (parallel) as well as the connecting pipe and the top horizontal pipe (pipe that feeds into sump).
 - All other pipes are off. (Top on both sides and bottom right).
+
+
+## <left> How to Feed the Coral <left/>
+**Rinsing all equipment (with DI water) that will go in the water tables is essential for minimizing contaminants entering the water.**
+*Feeding the corals in a gray tray outside of the water table helps to limit excess nutrients in the water table systems.*
+
+1. Gather the food container, a small square container, and grey tray for feeding the corals. *These should all be together in the bottom drawer under the lab table.*
+2. Rinse the square container in DI water and then add a few mL of tank water.
+3. Add approximately 1/4 teaspoon (a full tube) of food to the small container that has water in it and mix it by gently shaking. *There is a small tube between the cap and the inner liner of the food container that will serve as a measurement guide.*
+*You can use the inner liner as a scoop.*
+4. Rinse the grey tray with ethanol and a kimwipe and then DI water and a kimwipe or paper towel.
+5. Submerge the grey tray in the water table and carefully lift the egg tray and place in into the gray feeding tray.
+6. Take the gray tray out of the water, **Making sure there is enough water to submerge the corals** and place it on the water table covers or on the desk/ lab table.
+7. Wait *10-15 minutes* for coral to eat.
+8. Place the coral back into the water table by gently lifting and shaking the egg tray. **This step is the most important because it helps to minimize introduction of excess nutrients in the water system.
+9. Replace water table cover and dump out food contaminated water in gray tray in the sink or floor drain.
+10. Rinse the grey tray in the sink and put all feeding equipment back in designated space.
