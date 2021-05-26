@@ -13,6 +13,7 @@ Date last revised: 05-25-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium 
 | [Water Quality Test Protocol](#Water-Quality-Test-Protocol) |
 | [Water Test Schedule](#Water-Test-Schedule) |
 | [General Water Test Notes](#General-Water-Test-Notes) |
+| [Equipment Protocol](#Equipment-Protocol) |
 | [Test Steps](#Test-Steps) |
 | [General Probe Care](#General-Probe-Care) |
 | [Calibration Notes](#Calibration-Notes) |
@@ -182,7 +183,7 @@ Start with 5mL Salt Water from Tank 1.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
 7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
-## <left> General-probe-Care <left/>
+## <left> General-Probe-Care <left/>
 - **Do not leave hand held probes out of their designated liquid bottles**
 
 # Calibration-Notes
