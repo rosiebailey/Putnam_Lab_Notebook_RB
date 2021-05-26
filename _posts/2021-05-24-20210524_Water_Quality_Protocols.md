@@ -8,14 +8,29 @@ tags: Water Quality
 Date Started: 05-24-2021
 Date last revised: 05-25-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium Room Water Quality Schedule and Protocols](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) and [Dr. Hollie Putnam's WetLab Manual](https://docs.google.com/document/d/1lfsw27L7d_om6YE1jITMBXyVfVT68i5SyQL9h3pDT9k/edit?ts=60762410)
 
-### <center> Protocol for the Water Quality Tests in the WetLab </center>
+| Table of Contents |
+| ---- |
+| [Water Quality Test Protocol](#Water-Quality-Test-Protocol) |
+| [Water Test Schedule](#Water-Test-Schedule) |
+| [General Water Test Notes](#General-Water-Test-Notes) |
+| [Test Steps](#Test-Steps) |
+| [General Probe Care](#General-Probe-Care) |
+| [Calibration Notes](#Calibration-Notes) |
+| [After Use Notes](#After-Use-Notes) |
+| [Tris Calibration](#Tris-Calibration) |
+| [Regulating Water Flow](#Regulating-Water-Flow) |
+| [Feeding Coral](#Feeding-Coral) |
+| [Cleaning Water Tables](#Cleaning-Water-Tables) |
+
+
+### <center> Water-Quality-Test-Protocol </center>
 
 This is the comparison between both the test protocols in The Wet Lab Manual and The CBLS Aquarium Room Water Quality Schedule and Protocols post by hgreich.
 When comparing the two sets of protocols, both are similar and correct. The individual water tests with step-by-step instructions can be found further down in this document and in the Aquarium Room Protocols Post.
 Consult the Wet Lab for PPE and Safety Protocols.
 One big difference between the two sets of protocols is the water retrieval site, the Wet Lab instructs to pull water from the header tank and the Aquarium Room Protocol does not specify where the water should be tested from.
 
-## <Center> Water Test Schedule </center>
+## <Center> Water-Test-Schedule </center>
 
 | Test | Frequency and Day |
 | ---- | ---- |
@@ -43,14 +58,14 @@ One big difference between the two sets of protocols is the water retrieval site
 - Be sure to clean the lab space with a Clorox wipe before and after use to ensure cleanliness for all lab members.
 - If you've used towels to dry any areas, rinse them in the sink and place them in under the water table on the black rack to dry.
 
-## <left> Equipment Protocol </left>
+## <left> Equipment-Protocol </left>
 
 - There are tests when equipment is inserted into the tank. This equipment includes, but is not limited to, the pH probe, the Salinity probe, the Light probe, the thermometer probe. **Before any equipment is placed into the tanks they need to be cleaned with DI water and a kimwipe**.
 - All equipment needs to be rinsed or wiped with kimwipe with **70% ethanol** solution and then with **DI water** to prevent salt erosion and ensure general lab cleanliness.
 - **Do not put ethanol on the Salinity or pH probes** They are sensitive and expensive, DI Water rinse will be enough.
 - Ensure the Salinity and pH probe tips are placed in their respective solution bottles.
 
-## <left> Test Steps </left>
+## <left> Test-Steps </left>
 
 *Note: These steps and data analysis charts can be found in the boxes with the test materials.*
 *Note: All of the tests start with 5mL of the tank water.*
@@ -167,10 +182,10 @@ Start with 5mL Salt Water from Tank 1.
 6. Record NH4 value **Units in ppm (mg/L)** in lab notebook.
 7. Dispose of all test solutions and rinse water into respective waste containers. See [General Water test Notes](#General-Water-Test-Notes) above.
 
-## <left> General probe Care <left/>
+## <left> General-probe-Care <left/>
 - **Do not leave hand held probes out of their designated liquid bottles**
 
-# Calibration Notes
+# Calibration-Notes
 - **The handheld pH and salinity probes, apex pH, and salinity probes need to be calibrated every few days**.
 It is best to do this *at least* **every 3 days**. Both meter probes (used for daily discrete measurements) and APEX probes must be calibrated every three days with corresponding solutions (Apex uses solutions from Neptune Systems - handheld Mettler Toledo (pH) and Thermoscience (conductivity) probes use buffers from TA and probe-specific solutions, respectively).
 	- Update your notebook with the date and time of calibration.
@@ -203,7 +218,7 @@ After each use, follow these steps:
 6. *Repeat steps 4 & 5 for the second water table, glass tank in water table 2, and the header tank (big black bucket).*
  7. Press the power button to turn the probe off and complete the after-use process [See above](#After-Use-Notes).
 
-# Tris-Calibration steps -
+# Tris-Calibration
 The goal of the Tris calibration is to measure pH (mV) across a range of temperatures lower and higher than currently experienced in the tanks. The temperature values and corresponding pH values must have a linear relationship and an R^2 value equal to or above 0.98 in order to calculate the pH values for the daily measurements from the calibration curve.
 
 *Note: Measured with Orion Star A325 Thermoscientific pH/ conductivity meter and Mettler Toledo probe 51343101 and Control Company Certified traceable Temperature probe.*
@@ -247,7 +262,7 @@ The goal of the Tris calibration is to measure pH (mV) across a range of tempera
 8. Press the "ON/OFF" button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
 
 
-### <left> Regulating DI Water and Salt Water Flow With Sump </left>
+### <left> Regulating-Water-Flow </left>
 
 *Note: The flow of water is off when the blue valve handle is perpendicular to the pipe.*
 
@@ -263,7 +278,7 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 - Average salinity in Salt water tank should be 34-35 ppt.
 - The deviance between salinity values in tanks is okay up to 1ppt, but is ideally 0 ppt.
 
-*If there are problems with the two tanks, contact [Hollie Putnam](mailto:hputnam@uri.edu).*
+*If there are problems with the two tanks, contact Hollie Putnam* [hputnam@uri.edu](mailto:hputnam@uri.edu).
 
 # Images of each scenario -
 
@@ -293,7 +308,7 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 - All other pipes are off. (Top on both sides and bottom right).
 
 
-## <left> How to Feed the Coral <left/>
+## <left> Feeding-Coral <left/>
 **Rinsing all equipment (with DI water) that will go in the water tables is essential for minimizing contaminants entering the water.**
 *Feeding the corals in a gray tray outside of the water table helps to limit excess nutrients in the water table systems.*
 
@@ -308,3 +323,5 @@ If this scenario happens: *Be sure to check salinities of all tanks.*
 8. Place the coral back into the water table by gently lifting and shaking the egg tray. **This step is the most important because it helps to minimize introduction of excess nutrients in the water system.
 9. Replace water table cover and dump out food contaminated water in gray tray in the sink or floor drain.
 10. Rinse the grey tray in the sink and put all feeding equipment back in designated space.
+
+## Cleaning-Water-Tables
