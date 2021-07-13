@@ -6,7 +6,7 @@ categories: Protocols
 tags: Water Quality
 ---
 Date Started: 05-24-2021
-Date last revised: 05-25-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium Room Water Quality Schedule and Protocols](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) and [Dr. Hollie Putnam's WetLab Manual](https://docs.google.com/document/d/1lfsw27L7d_om6YE1jITMBXyVfVT68i5SyQL9h3pDT9k/edit?ts=60762410)
+Date last revised: 05-26-2021 RB Adapted from [Dr. Hannah Reich's CBLS Aquarium Room Water Quality Schedule and Protocols](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) and [Dr. Hollie Putnam's WetLab Manual](https://docs.google.com/document/d/1lfsw27L7d_om6YE1jITMBXyVfVT68i5SyQL9h3pDT9k/edit?ts=60762410)
 
 | Table of Contents |
 | ---- |
@@ -250,6 +250,17 @@ The goal of the Tris calibration is to measure pH (mV) across a range of tempera
 6. *Repeat steps 4 & 5 for the second water table, glass tank in water table 2, and the header tank (big black bucket)*.
 7. Record all temperature measurements **Units in psu** in the lab notebook. Press the "mode" button to reset as necessary.
 8. Press the power button to turn the probe off and complete the after-use process. [See above](#After-Use-Notes).
+
+
+**Salinity Probe Calibration**
+
+
+*You will need a temperature probe because you have to calibrate the salinity probe at* **25** degrees Celcius.
+When calibrating the salinity probe (Every other use) you should follow this process:
+- Turn on meter boxes of both the salinity probe and the temperature probe.
+- Rinse probe with DI water and wipe dry with kiwipe.
+- Place probes into 50,000 calibration solution and swirl probe around with the temperature probe as well.
+- Hit the measure button (Top left) on the salinity meter box.
 
 # Temperature
 *Note: Temperature probe can and should be stored completely dry.*
